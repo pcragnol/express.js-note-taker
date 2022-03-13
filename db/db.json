@@ -1,12 +1,17 @@
 [
     {
-        "title": "Colossal",
-        "text": "One small note for man. One giant leap for mankind.",
-        "id": "92d8e824-7851-43e6-8d31-dc8c4c956a3c"
+        "title": "Phase 1",
+        "text": "Collect underpants.",
+        "id": "4fd140b9-a79b-4660-b5f4-2e924e59f1be"
     },
     {
-        "title": "Mars",
-        "text": "Thirsty",
-        "id": "740452f9-375b-4e60-a9ce-47cea8a1be6e"
+        "title": "Phase 2",
+        "text": "What's phase 2?",
+        "id": "850f6ef7-0e27-465b-9962-fbf290bf564d"
+    },
+    {
+        "title": "Phase 3",
+        "text": "Profit.",
+        "id": "fd141995-e7b8-44f3-aa8a-569724f9b22e"
     }
 ]
